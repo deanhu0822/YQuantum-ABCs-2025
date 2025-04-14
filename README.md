@@ -25,4 +25,3 @@ While we set up a full pipeline for fidelity analysis and reconstruction, we did
 - Developed a robust foundation for future extensions into real experimental integration  
 
 ---
-Learn more: https://devpost.com/software/wigner-wizards
