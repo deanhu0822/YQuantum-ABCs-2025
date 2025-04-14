@@ -1,10 +1,9 @@
-# ABCs: From Noise to Information
+# Quantum States through Wigner Function Reconstruction
 
 ## 🧠 Inspiration  
 Quantum noise is more than randomness—it's a hidden canvas of nature. Inspired by the complex structures within quantum uncertainty, we aimed to turn ambiguity into clarity by decoding meaningful quantum states from aesthetically rich noise landscapes.
 
 ## ⚙️ What It Does  
-**ABCs** is a quantum tomography pipeline that:
 - Generates Wigner functions of quantum states  
 - Simulates their evolution under noise and dissipation  
 - Reconstructs density matrices from distorted phase-space observations  
